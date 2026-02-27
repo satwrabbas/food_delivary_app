@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+PRODUCT_NAME = food_delivery_app
+
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.foodDeliveryApp
+
+
+PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
